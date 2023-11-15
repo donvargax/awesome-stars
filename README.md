@@ -200,9 +200,9 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [abbeyjackson/AWESOME-iOS-Learning-Resources](https://github.com/abbeyjackson/AWESOME-iOS-Learning-Resources) - Big list of high-quality iOS learning resources including courses, blogs, newsletters, podcasts, and devloper communities
-- [varxy20k/main](https://github.com/varxy20k/main) - Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.
-- [varxy20k/sublime_diagram_plugin](https://github.com/varxy20k/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 To Render Diagrams In Your Source Code
-- [varxy20k/pynfsn](https://github.com/varxy20k/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
+- [donvargax/main](https://github.com/donvargax/main) - Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.
+- [donvargax/sublime_diagram_plugin](https://github.com/donvargax/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 To Render Diagrams In Your Source Code
+- [donvargax/pynfsn](https://github.com/donvargax/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
 
 ## Perl 
 
@@ -224,7 +224,7 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
-- [varxy20k/mywela](https://github.com/varxy20k/mywela) - MyWela is a simple project-based time tracking software that is powered by Qt and PySide.
+- [donvargax/mywela](https://github.com/donvargax/mywela) - MyWela is a simple project-based time tracking software that is powered by Qt and PySide.
 - [EmilStenstrom/nephele](https://github.com/EmilStenstrom/nephele) - Finding movies to watch on the internet is easy, finding GOOD movies to watch is hard. Let Nephele, the greek nymph of the clouds, help you.
 - [goncalopp/pynfsn](https://github.com/goncalopp/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
 - [qato/Saimon](https://github.com/qato/Saimon) - System monitoring tool for GNU/Linux
@@ -289,5 +289,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [varxy20k](https://github.com/varxy20k) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [donvargax](https://github.com/donvargax) has waived all copyright and related or neighboring rights to this work.
 
