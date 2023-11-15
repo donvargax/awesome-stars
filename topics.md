@@ -561,10 +561,10 @@
 - [play-co/devkit](https://github.com/play-co/devkit) - HTML 5 game platform for browser and mobile
 - [blangel/wrk](https://github.com/blangel/wrk) - A command line interface to Trello
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
-- [varxy20k/main](https://github.com/varxy20k/main) - Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.
-- [varxy20k/mywela](https://github.com/varxy20k/mywela) - MyWela is a simple project-based time tracking software that is powered by Qt and PySide.
-- [varxy20k/sublime_diagram_plugin](https://github.com/varxy20k/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 To Render Diagrams In Your Source Code
-- [varxy20k/pynfsn](https://github.com/varxy20k/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
+- [donvargax/main](https://github.com/donvargax/main) - Implementations of Python and Ruby programming languages for .NET Framework that are built on top of the Dynamic Language Runtime.
+- [donvargax/mywela](https://github.com/donvargax/mywela) - MyWela is a simple project-based time tracking software that is powered by Qt and PySide.
+- [donvargax/sublime_diagram_plugin](https://github.com/donvargax/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 To Render Diagrams In Your Source Code
+- [donvargax/pynfsn](https://github.com/donvargax/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
 - [infovore/pinboard-bookmachine](https://github.com/infovore/pinboard-bookmachine) - Generate paperbacks from your Pinboard links
 - [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
@@ -754,5 +754,5 @@
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [varxy20k](https://github.com/varxy20k) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [donvargax](https://github.com/donvargax) has waived all copyright and related or neighboring rights to this work.
 
