@@ -14,6 +14,7 @@
 - [Erlang](#erlang)
 - [Go](#go)
 - [Groovy](#groovy)
+- [HCL](#hcl)
 - [HTML](#html)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -97,6 +98,10 @@
 
 - [bmustiata/jenny](https://github.com/bmustiata/jenny) - Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.
 - [JavatarPro/declarative-pipeline](https://github.com/JavatarPro/declarative-pipeline) - jenkinsfile pipeline library
+
+## HCL 
+
+- [tferrari92/automate-all-the-things](https://github.com/tferrari92/automate-all-the-things) - First edition of the Automate All The Things Saga
 
 ## HTML 
 
