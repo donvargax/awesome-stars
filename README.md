@@ -270,6 +270,7 @@
 
 ## TypeScript 
 
+- [badlogic/doxie](https://github.com/badlogic/doxie) - RAG/LLM info retrieval
 - [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain) - GPT4 & LangChain Chatbot for large PDF docs
 - [francisrstokes/construct-js](https://github.com/francisrstokes/construct-js) - 🛠️A library for creating byte level data structures.
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
