@@ -13,7 +13,6 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
-- [aws](#aws)
 - [babel](#babel)
 - [bash](#bash)
 - [bioinformatics](#bioinformatics)
@@ -162,10 +161,6 @@
 - [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses) - :books: List of awesome university courses for learning Computer Science!
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
-## aws 
-
-- [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-
 ## babel 
 
 - [developit/htm](https://github.com/developit/htm) - Hyperscript Tagged Markup: JSX alternative using standard tagged templates, with compiler support.
@@ -200,7 +195,6 @@
 
 ## cli 
 
-- [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
@@ -355,7 +349,6 @@
 ## hacktoberfest 
 
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
-- [jenkinsci/jenkinsfile-runner](https://github.com/jenkinsci/jenkinsfile-runner) - A command line tool to run Jenkinsfile as a function
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
