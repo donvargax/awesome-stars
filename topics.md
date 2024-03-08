@@ -28,6 +28,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [data-structures](#data-structures)
+- [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
 - [design](#design)
@@ -245,6 +246,10 @@
 ## data-structures 
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
+
+## database 
+
+- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
 
 ## deep-learning 
 
