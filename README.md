@@ -163,6 +163,7 @@
 
 ## Jupyter Notebook 
 
+- [jasonppy/VoiceCraft](https://github.com/jasonppy/VoiceCraft) - Zero-Shot Speech Editing and Text-to-Speech in the Wild
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 
 ## Kotlin 
