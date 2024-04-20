@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [go-aie/gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
 - [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
