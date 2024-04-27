@@ -116,7 +116,7 @@
 
 ## Java 
 
-- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - AI-driven data management platform Over 1 million developers are using Chat2DB
+- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 - [sdaschner/jaxrs-analyzer](https://github.com/sdaschner/jaxrs-analyzer) - Creates REST documentation for JAX-RS projects
 - [spring-cloud-samples/spring-cloud-contract-samples](https://github.com/spring-cloud-samples/spring-cloud-contract-samples) - Samples for Spring Cloud Contract project
@@ -128,6 +128,7 @@
 
 ## JavaScript 
 
+- [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
@@ -185,6 +186,7 @@
 
 ## Others 
 
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
 - [vmbrasseur/Public_Speaking](https://github.com/vmbrasseur/Public_Speaking) - A repository of resources about public speaking, specifically in the context of software development and IT conferences.
 - [JonasHavers/awesome-micronaut](https://github.com/JonasHavers/awesome-micronaut) - A curated list of resources for the Micronaut JVM framework
@@ -220,6 +222,7 @@
 
 ## Python 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
@@ -280,6 +283,9 @@
 
 ## TypeScript 
 
+- [Dhravya/supermemory](https://github.com/Dhravya/supermemory) - Build your own second brain with supermemory. It's a ChatGPT for your bookmarks. Import tweets or save websites and content using the chrome extension.
+- [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
+- [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [oazapfts/oazapfts](https://github.com/oazapfts/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [rysana-ai/react-shaders](https://github.com/rysana-ai/react-shaders) - Modern GLSL/WebGL bindings & components for React and Typescript.
