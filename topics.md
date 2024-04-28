@@ -547,6 +547,7 @@
 
 ## others 
 
+- [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
