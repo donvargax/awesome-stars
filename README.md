@@ -22,6 +22,7 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Others](#others)
+- [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
@@ -80,6 +81,7 @@
 
 ## CSS 
 
+- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 
@@ -217,12 +219,17 @@
 - [donvargax/sublime_diagram_plugin](https://github.com/donvargax/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 To Render Diagrams In Your Source Code
 - [donvargax/pynfsn](https://github.com/donvargax/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
 
+## PHP 
+
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+
 ## Perl 
 
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 
 ## Python 
 
+- [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
@@ -280,6 +287,7 @@
 
 ## Swift 
 
+- [ronaldmannak/PicoMLXServer](https://github.com/ronaldmannak/PicoMLXServer) - 
 - [gonzula/splash](https://github.com/gonzula/splash) - Simple Programming LAnguage for SHortcuts
 
 ## TypeScript 
