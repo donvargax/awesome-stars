@@ -287,7 +287,8 @@
 
 ## Swift 
 
-- [ronaldmannak/PicoMLXServer](https://github.com/ronaldmannak/PicoMLXServer) - 
+- [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - A macOS app for interacting with the Ollama models
+- [PicoMLX/PicoMLXServer](https://github.com/PicoMLX/PicoMLXServer) - The easiest way to run the fastest MLX-based LLMs locally
 - [gonzula/splash](https://github.com/gonzula/splash) - Simple Programming LAnguage for SHortcuts
 
 ## TypeScript 
