@@ -581,6 +581,7 @@
 
 ## others 
 
+- [YesItsKira/ROG-Ally-2nd-Screen-Mod](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod) - Hi there! This is a mod for the ROG Ally that adds a second clamshell screen!
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
