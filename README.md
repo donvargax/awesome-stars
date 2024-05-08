@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [go-aie/gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
 - [docker/compose-on-kubernetes](https://github.com/docker/compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
@@ -222,6 +223,7 @@
 
 ## PHP 
 
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (wip)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## Perl 
