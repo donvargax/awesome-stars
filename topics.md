@@ -37,6 +37,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -305,6 +306,10 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+
+## dotfiles 
+
+- [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 
 ## dotnet 
 
@@ -589,6 +594,7 @@
 
 ## others 
 
+- [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - 
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (wip)
