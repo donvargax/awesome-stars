@@ -95,6 +95,7 @@
 
 ## Go 
 
+- [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - 
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [go-aie/gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
