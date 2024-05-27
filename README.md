@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Crystal](#crystal)
+- [Elixir](#elixir)
 - [Erlang](#erlang)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -81,7 +82,6 @@
 
 ## CSS 
 
-- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [mrmrs/colors](https://github.com/mrmrs/colors) - Smarter defaults for colors on the web.
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
@@ -89,6 +89,10 @@
 ## Crystal 
 
 - [sdogruyol/fast-http-server](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server.
+
+## Elixir 
+
+- [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 
 ## Erlang 
 
