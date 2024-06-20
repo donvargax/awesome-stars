@@ -100,7 +100,7 @@
 
 ## Go 
 
-- [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - 
+- [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [go-aie/gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
