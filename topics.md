@@ -43,6 +43,7 @@
 - [electron](#electron)
 - [emulator](#emulator)
 - [es6](#es6)
+- [flask](#flask)
 - [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
@@ -86,6 +87,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
@@ -109,6 +111,7 @@
 - [sass](#sass)
 - [scikit-learn](#scikit-learn)
 - [security](#security)
+- [self-hosted](#self-hosted)
 - [serverless](#serverless)
 - [shell](#shell)
 - [spring](#spring)
@@ -336,6 +339,10 @@
 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 
+## flask 
+
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
+
 ## font 
 
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://beautifulwebtype.com
@@ -365,6 +372,7 @@
 
 ## github 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [ThirtyDegreesRay/OpenHub](https://github.com/ThirtyDegreesRay/OpenHub) - An open source GitHub Android client app, faster and concise.
 
 ## go 
@@ -467,6 +475,7 @@
 
 ## kubernetes 
 
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 - [devxp-tech/gitops](https://github.com/devxp-tech/gitops) - 🏗️ GitOps Repository
 - [hjacobs/kubernetes-failure-stories](https://github.com/hjacobs/kubernetes-failure-stories) - Compilation of public failure/horror stories related to Kubernetes
 - [cloudogu/jenkinsfiles](https://github.com/cloudogu/jenkinsfiles) - Examples for jenkins pipelines, comparing scripted and declarative syntax
@@ -527,6 +536,7 @@
 
 ## mongodb 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## monitoring 
@@ -580,6 +590,10 @@
 
 - [lassjs/lass](https://github.com/lassjs/lass) - :girl: Lass scaffolds a modern package boilerplate for Node.js
 - [miyajan/jflint](https://github.com/miyajan/jflint) - A client tool to lint Jenkinsfile
+
+## numpy 
+
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 
 ## objective-c 
 
@@ -746,6 +760,7 @@
 
 ## python 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
@@ -759,6 +774,7 @@
 
 ## python3 
 
+- [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [cloudtools/troposphere](https://github.com/cloudtools/troposphere) - troposphere - Python library to create AWS CloudFormation descriptions
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
@@ -825,6 +841,10 @@
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
 - [Developer-Y/cs-video-courses](https://github.com/Developer-Y/cs-video-courses) - List of Computer Science courses with video lectures.
+
+## self-hosted 
+
+- [ahgraber/homelab-gitops-k3s](https://github.com/ahgraber/homelab-gitops-k3s) - k3s cluster managed by FluxCD GitOps
 
 ## serverless 
 
