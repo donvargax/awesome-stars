@@ -237,6 +237,7 @@
 
 ## Python 
 
+- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) - 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for 250+ supported car makes and models.
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
