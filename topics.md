@@ -684,7 +684,7 @@
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
 - [alexjc/neural-enhance](https://github.com/alexjc/neural-enhance) - Super Resolution for images using deep learning.
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
-- [ossu/data-science](https://github.com/ossu/data-science) - :bar_chart: Path to a free self-taught education in Data Science!
+- [ossu/data-science](https://github.com/ossu/data-science) - 📊 Path to a free self-taught education in Data Science!
 - [nylas/sync-engine](https://github.com/nylas/sync-engine) - :incoming_envelope: IMAP/SMTP sync system with modern APIs
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
 - [SlexAxton/css-colorguard](https://github.com/SlexAxton/css-colorguard) - Keep a watchful eye on your css colors.
