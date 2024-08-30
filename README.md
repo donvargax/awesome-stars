@@ -228,7 +228,7 @@
 
 ## PHP 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (wip)
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (v1; deprecated)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 
 ## Perl 
