@@ -641,7 +641,7 @@
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (wip)
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (v1; deprecated)
 - [YesItsKira/ROG-Ally-2nd-Screen-Mod](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod) - Hi there! This is a mod for the ROG Ally that adds a second clamshell screen!
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
