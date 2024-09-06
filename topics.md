@@ -638,7 +638,7 @@
 
 ## others 
 
-- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) - 
+- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - 
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
