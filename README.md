@@ -237,7 +237,7 @@
 
 ## Python 
 
-- [run-llama/llama-agents](https://github.com/run-llama/llama-agents) - 
+- [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - 
 - [Asabeneh/30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) - 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.  These videos may 
 - [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system in 275+ supported cars.
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
