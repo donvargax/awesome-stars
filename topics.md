@@ -639,7 +639,7 @@
 ## others 
 
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - 
-- [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A simple Perplexity AI clone.
+- [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - Come join the best place on the internet to learn AI skills. Use code "clarityai" for an extra 20% off.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - An open agents platform (v1; deprecated)
