@@ -211,7 +211,7 @@
 
 - [jorisvink/kore](https://github.com/jorisvink/kore) - An easy to use, scalable and secure web application framework for writing web APIs in C or Python. || This is a read-only mirror, please see https://kore.io/mail and https://kore.io/source for informa
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [haldean/x6502](https://github.com/haldean/x6502) - Yet another 6502 emulator that one day dreams of being an Atari 2600.
 
 ## c-plus-plus 
@@ -271,7 +271,7 @@
 ## cpp 
 
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## csharp 
 
@@ -351,7 +351,7 @@
 ## emulator 
 
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [haldean/x6502](https://github.com/haldean/x6502) - Yet another 6502 emulator that one day dreams of being an Atari 2600.
 
 ## es6 
@@ -421,7 +421,7 @@
 - [sapegin/mrm](https://github.com/sapegin/mrm) - Codemods for your project config files
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 
 ## html 
@@ -645,7 +645,7 @@
 
 ## opengl 
 
-- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PS3 emulator/debugger
+- [RPCS3/rpcs3](https://github.com/RPCS3/rpcs3) - PlayStation 3 emulator and debugger
 
 ## operating-system 
 
@@ -806,7 +806,6 @@
 - [amontalenti/elements-of-python-style](https://github.com/amontalenti/elements-of-python-style) - Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code) - 100 Days of ML Coding
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [EmilStenstrom/nephele](https://github.com/EmilStenstrom/nephele) - Finding movies to watch on the internet is easy, finding GOOD movies to watch is hard. Let Nephele, the greek nymph of the clouds, help you.
@@ -837,7 +836,6 @@
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 
 ## redux 
 
