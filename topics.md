@@ -808,7 +808,6 @@
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [EmilStenstrom/nephele](https://github.com/EmilStenstrom/nephele) - Finding movies to watch on the internet is easy, finding GOOD movies to watch is hard. Let Nephele, the greek nymph of the clouds, help you.
-- [goncalopp/pynfsn](https://github.com/goncalopp/pynfsn) - Module for NearlyFreeSpeech.net RESTful API
 
 ## python3 
 
