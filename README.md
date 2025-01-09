@@ -139,7 +139,7 @@
 
 ## JavaScript 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Project info & docs
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Docs/wiki and new Rust site
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
