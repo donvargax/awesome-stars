@@ -139,7 +139,6 @@
 
 ## JavaScript 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Docs/wiki and new Rust site
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 - [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
@@ -284,6 +283,7 @@
 
 ## Rust 
 
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Docs/wiki and new Rust site
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
