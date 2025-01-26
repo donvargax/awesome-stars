@@ -283,7 +283,7 @@
 
 ## Rust 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Docs/wiki and new Rust site
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - v4 webapp & backend for Onyx v0.2+ (wip)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
