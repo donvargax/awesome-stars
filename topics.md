@@ -147,7 +147,7 @@
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 
 ## algorithm 
@@ -224,7 +224,7 @@
 
 ## chatbot 
 
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 
 ## chatgpt 
@@ -406,6 +406,7 @@
 
 ## go 
 
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 
 ## golang 
@@ -605,7 +606,7 @@
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source Tines / Splunk SOAR alternative for security and IT engineers. Built on simple YAML templates for integrations and response-as-code.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 
 ## nlp 
 
@@ -651,7 +652,7 @@
 ## openai 
 
 - [PicoMLX/PicoMLXServer](https://github.com/PicoMLX/PicoMLXServer) - The easiest way to run the fastest MLX-based LLMs locally
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | o3 mini and deepseek r1
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 
@@ -837,7 +838,6 @@
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
 - [react-boilerplate/react-boilerplate](https://github.com/react-boilerplate/react-boilerplate) - 🔥 A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
@@ -943,9 +943,8 @@
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
-- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI chatbot for large PDF docs
+- [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI agent chatbot large PDF docs
 - [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
-- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
