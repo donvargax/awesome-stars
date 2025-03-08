@@ -268,7 +268,6 @@
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [donvargax/mywela](https://github.com/donvargax/mywela) - MyWela is a simple project-based time tracking software that is powered by Qt and PySide.
 - [EmilStenstrom/nephele](https://github.com/EmilStenstrom/nephele) - Finding movies to watch on the internet is easy, finding GOOD movies to watch is hard. Let Nephele, the greek nymph of the clouds, help you.
-- [qato/Saimon](https://github.com/qato/Saimon) - System monitoring tool for GNU/Linux
 - [jvantuyl/sublime_diagram_plugin](https://github.com/jvantuyl/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 / 3 To Render Diagrams In Your Source Code
 - [jparise/stale](https://github.com/jparise/stale) - Stale identifies (and optionally deletes) stale Delicious and Pinboard links.
 - [vlkv/reggata](https://github.com/vlkv/reggata) - Reggata is a tagging system for local files
