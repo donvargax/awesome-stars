@@ -754,7 +754,6 @@
 - [infovore/pinboard-bookmachine](https://github.com/infovore/pinboard-bookmachine) - Generate paperbacks from your Pinboard links
 - [h5bp/ant-build-script](https://github.com/h5bp/ant-build-script) - Ant build script intended for use with HTML5 Boilerplate. You may find something useful here, but this project is archived.
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-- [qato/Saimon](https://github.com/qato/Saimon) - System monitoring tool for GNU/Linux
 - [jvantuyl/sublime_diagram_plugin](https://github.com/jvantuyl/sublime_diagram_plugin) - A Plug-In for Sublime Text 2 / 3 To Render Diagrams In Your Source Code
 - [glukki/TabMemFree](https://github.com/glukki/TabMemFree) - TabMemFree Chrome extension
 - [yifanlu/PSXperia](https://github.com/yifanlu/PSXperia) - This tool will take a PSX image that you legally own and convert it to be playable on the Xperia Play with the emulator extracted from the packaged game "Crash Bandicoot."
