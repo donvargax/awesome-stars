@@ -23,6 +23,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -144,6 +145,7 @@
 
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [PicoMLX/PicoMLXServer](https://github.com/PicoMLX/PicoMLXServer) - The easiest way to run the fastest MLX-based LLMs locally
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
@@ -181,6 +183,7 @@
 
 ## awesome 
 
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [JonasHavers/awesome-micronaut](https://github.com/JonasHavers/awesome-micronaut) - A curated list of resources for the Micronaut JVM framework
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -247,6 +250,10 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## coding 
+
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 
 ## compiler 
 
@@ -675,7 +682,6 @@
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
-- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
