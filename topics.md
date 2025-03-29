@@ -131,6 +131,7 @@
 - [swift](#swift)
 - [tailwindcss](#tailwindcss)
 - [testing](#testing)
+- [text-to-speech](#text-to-speech)
 - [typescript](#typescript)
 - [vue](#vue)
 - [vuejs](#vuejs)
@@ -681,7 +682,6 @@
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
 - [floooh/sokol](https://github.com/floooh/sokol) - minimal cross-platform standalone C headers
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [timpaul/form-extractor-prototype](https://github.com/timpaul/form-extractor-prototype) - A prototype of a tool that generates web forms from document forms
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
@@ -941,6 +941,10 @@
 
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
+
+## text-to-speech 
+
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 
 ## typescript 
 
