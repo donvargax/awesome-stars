@@ -781,7 +781,7 @@
 - [kayakhttp/kayak](https://github.com/kayakhttp/kayak) - event-driven networking library for .NET
 - [jparise/stale](https://github.com/jparise/stale) - Stale identifies (and optionally deletes) stale Delicious and Pinboard links.
 - [driverdan/cssess](https://github.com/driverdan/cssess) - JS tool to scan websites for unused CSS selectors
-- [Particular/NServiceBus](https://github.com/Particular/NServiceBus) - Build, version, and monitor better microservices with the most powerful service platform for .NET
+- [Particular/NServiceBus](https://github.com/Particular/NServiceBus) - The gold standard for async .NET microservices on Azure, AWS and on-prem
 - [vlkv/reggata](https://github.com/vlkv/reggata) - Reggata is a tagging system for local files
 - [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 - [eugenis/jumpnbump-nacl](https://github.com/eugenis/jumpnbump-nacl) - NativeClient port of Jump'n'Bump
