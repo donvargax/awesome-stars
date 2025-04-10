@@ -67,7 +67,7 @@
 - [headsling/Node.cs](https://github.com/headsling/Node.cs) - Node.cs.net - Node.js in c# with all the beauty and performance that C# brings
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 - [kayakhttp/kayak](https://github.com/kayakhttp/kayak) - event-driven networking library for .NET
-- [Particular/NServiceBus](https://github.com/Particular/NServiceBus) - Build, version, and monitor better microservices with the most powerful service platform for .NET
+- [Particular/NServiceBus](https://github.com/Particular/NServiceBus) - The gold standard for async .NET microservices on Azure, AWS and on-prem
 - [synhershko/NAppUpdate](https://github.com/synhershko/NAppUpdate) - A simple framework for providing auto-update support to .NET applications
 - [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 - [jacksonh/manos](https://github.com/jacksonh/manos) - Manos is an easy to use, easy to test, high performance web application framework that stays out of your way and makes your life ridiculously simple.
