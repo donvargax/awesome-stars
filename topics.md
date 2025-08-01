@@ -143,6 +143,7 @@
 - [windows](#windows)
 - [wordpress](#wordpress)
 - [xml](#xml)
+- [zsh](#zsh)
 
 ## ai 
 
@@ -1009,6 +1010,10 @@
 ## xml 
 
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+
+## zsh 
+
+- [isaacs/nave](https://github.com/isaacs/nave) - Virtual Environments for Node
 
 
 ## License
