@@ -23,6 +23,7 @@
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
+- [cloud](#cloud)
 - [coding](#coding)
 - [compiler](#compiler)
 - [computer-science](#computer-science)
@@ -256,6 +257,10 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+
+## cloud 
+
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet OS! Free, Open-Source, and Self-Hostable.
 
 ## coding 
 
@@ -687,7 +692,7 @@
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A Perplexity clone.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - A desktop app
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - A desktop app to command OpenAI Codex and other agents (wip)
 - [YesItsKira/ROG-Ally-2nd-Screen-Mod](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod) - Hi there! This is a mod for the ROG Ally that adds a second clamshell screen!
 - [technomancy-dev/00](https://github.com/technomancy-dev/00) - A markdown email micro service for the people!
 - [omkaark/simple-federated-learning](https://github.com/omkaark/simple-federated-learning) - 
