@@ -22,7 +22,6 @@
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
-- [MoonBit](#moonbit)
 - [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
@@ -107,6 +106,7 @@
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [go-aie/gptbot](https://github.com/go-aie/gptbot) - Question Answering Bot powered by OpenAI GPT models.
 - [docker-archive-public/docker.compose-on-kubernetes](https://github.com/docker-archive-public/docker.compose-on-kubernetes) - Deploy applications described in Compose onto Kubernetes clusters
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 
 ## Groovy 
@@ -194,10 +194,6 @@
 ## Lua 
 
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
-
-## MoonBit 
-
-- [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) - MoonBit tools, libraries and other code
 
 ## Nix 
 
