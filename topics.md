@@ -424,6 +424,7 @@
 
 ## go 
 
+- [nikitavoloboev/go](https://github.com/nikitavoloboev/go) - Go tools, libraries and other code
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 
 ## golang 
@@ -732,7 +733,6 @@
 - [haywire/haywire](https://github.com/haywire/haywire) - Haywire is an asynchronous HTTP server framework written in C that's built using the event loop based libuv platform layer that node.js is built on top of.
 - [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 - [arielf/weight-loss](https://github.com/arielf/weight-loss) - Machine Learning meets  ketosis: how to effectively lose weight
-- [nikitavoloboev/mbt](https://github.com/nikitavoloboev/mbt) - MoonBit tools, libraries and other code
 - [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way. No scripts.
 - [streamich/libreact](https://github.com/streamich/libreact) - Collection of useful React components
 - [nagadomi/waifu2x](https://github.com/nagadomi/waifu2x) - Image Super-Resolution for Anime-Style Art
