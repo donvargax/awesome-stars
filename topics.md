@@ -904,7 +904,7 @@
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
 - [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) - Secure and fast microVMs for serverless computing.
-- [nikitavoloboev/flow](https://github.com/nikitavoloboev/flow) - Do things fast
+- [nikivdev/flow](https://github.com/nikivdev/flow) - Do things fast
 
 ## sass 
 
