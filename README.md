@@ -201,6 +201,7 @@
 
 ## Others 
 
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - A cross-platform command center for your coding agents
 - [YesItsKira/ROG-Ally-2nd-Screen-Mod](https://github.com/YesItsKira/ROG-Ally-2nd-Screen-Mod) - Hi there! This is a mod for the ROG Ally that adds a second clamshell screen!
 - [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 - [HumanAIGC/AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone) - Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
@@ -283,7 +284,6 @@
 
 ## Rust 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - A desktop app to command OpenAI Codex and other agents (wip)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
