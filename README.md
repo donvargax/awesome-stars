@@ -234,7 +234,7 @@
 
 ## PHP 
 
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
+- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku and Netlify that lets you easily deploy static sites, databases, web applications and more than 280 one-click services on your own serv
 
 ## Perl 
 
@@ -283,7 +283,6 @@
 
 ## Rust 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Command center for your coding agents (wip)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
@@ -305,6 +304,7 @@
 
 ## Swift 
 
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Command center for your coding agents (wip)
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [PicoMLX/PicoMLXServer](https://github.com/PicoMLX/PicoMLXServer) - The easiest way to run the fastest MLX-based LLMs locally
 - [gonzula/splash](https://github.com/gonzula/splash) - Simple Programming LAnguage for SHortcuts
