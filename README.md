@@ -175,7 +175,7 @@
 - [madrobby/dom-monster](https://github.com/madrobby/dom-monster) - 
 - [driverdan/cssess](https://github.com/driverdan/cssess) - JS tool to scan websites for unused CSS selectors
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-- [adam7/CommunityCourses](https://github.com/adam7/CommunityCourses) - A web application for managing community courses and students progress through them. Using ASP.NET MVC 2 and jQuery UI
+- [admcpr/CommunityCourses](https://github.com/admcpr/CommunityCourses) - A web application for managing community courses and students progress through them. Using ASP.NET MVC 2 and jQuery UI
 
 ## Jupyter Notebook 
 
@@ -333,7 +333,7 @@
 - [eykrehbein/strest](https://github.com/eykrehbein/strest) - ⚡️ CI-ready tests for REST APIs configured in YAML
 - [recharts/recharts](https://github.com/recharts/recharts) - Redefined chart library built with React and D3
 - [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Capture website screenshots
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [stryker-mutator/stryker-js](https://github.com/stryker-mutator/stryker-js) - Mutation testing for JavaScript and friends
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
