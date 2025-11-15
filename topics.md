@@ -163,7 +163,7 @@
 
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [kdn251/interviews](https://github.com/kdn251/interviews) - Everything you need to know to get the job.
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 
 ## android 
 
@@ -802,7 +802,7 @@
 - [eugenis/jumpnbump-nacl](https://github.com/eugenis/jumpnbump-nacl) - NativeClient port of Jump'n'Bump
 - [synhershko/NAppUpdate](https://github.com/synhershko/NAppUpdate) - A simple framework for providing auto-update support to .NET applications
 - [jacksonh/manos](https://github.com/jacksonh/manos) - Manos is an easy to use, easy to test, high performance web application framework that stays out of your way and makes your life ridiculously simple.
-- [adam7/CommunityCourses](https://github.com/adam7/CommunityCourses) - A web application for managing community courses and students progress through them. Using ASP.NET MVC 2 and jQuery UI
+- [admcpr/CommunityCourses](https://github.com/admcpr/CommunityCourses) - A web application for managing community courses and students progress through them. Using ASP.NET MVC 2 and jQuery UI
 - [thomasjachmann/launchpad](https://github.com/thomasjachmann/launchpad) - A gem for accessing novation's launchpad programmatically and easily.
 - [fiorix/cyclone](https://github.com/fiorix/cyclone) - Cyclone is a web server framework for Python, that implements the Tornado API as a Twisted protocol.
 - [wkhtmltopdf/wkhtmltopdf](https://github.com/wkhtmltopdf/wkhtmltopdf) - Convert HTML to PDF using Webkit (QtWebKit)
