@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [agent](#agent)
 - [ai](#ai)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -148,6 +149,10 @@
 - [wordpress](#wordpress)
 - [xml](#xml)
 - [zsh](#zsh)
+
+## agent 
+
+- [e2b-dev/awesome-devins](https://github.com/e2b-dev/awesome-devins) - Awesome Devin-inspired AI agents
 
 ## ai 
 
