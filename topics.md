@@ -33,7 +33,6 @@
 - [cpp](#cpp)
 - [csharp](#csharp)
 - [css](#css)
-- [cybersecurity](#cybersecurity)
 - [data](#data)
 - [data-science](#data-science)
 - [data-structures](#data-structures)
@@ -321,10 +320,6 @@
 - [tachyons-css/tachyons](https://github.com/tachyons-css/tachyons) - Functional css for humans
 - [Kozea/WeasyPrint](https://github.com/Kozea/WeasyPrint) - The awesome document factory
 - [h5bp/html5-boilerplate](https://github.com/h5bp/html5-boilerplate) - A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-## cybersecurity 
-
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - All-in-one AI automation platform (workflows, agents, cases, tables) for security, IT, and infra teams.
 
 ## data 
 
