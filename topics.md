@@ -51,6 +51,7 @@
 - [emacs](#emacs)
 - [emulator](#emulator)
 - [es6](#es6)
+- [fastapi](#fastapi)
 - [flask](#flask)
 - [font](#font)
 - [framework](#framework)
@@ -409,6 +410,10 @@
 ## es6 
 
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+
+## fastapi 
+
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - The open source AI platform for secure enterprise agents.
 
 ## flask 
 
