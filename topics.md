@@ -205,7 +205,7 @@
 
 ## automation 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [draftdev/startup-marketing-checklist](https://github.com/draftdev/startup-marketing-checklist) - A checklist of tactics for marketing your startup.
 
 ## awesome 
@@ -413,7 +413,7 @@
 
 ## fastapi 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 
 ## flask 
 
@@ -601,7 +601,7 @@
 
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [kevinhermawan/Ollamac](https://github.com/kevinhermawan/Ollamac) - Mac app for Ollama
 - [microsoft/unilm](https://github.com/microsoft/unilm) - Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
@@ -609,7 +609,7 @@
 
 ## low-code 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 
 ## mac 
 
@@ -650,7 +650,7 @@
 
 ## monitoring 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [jayfk/statuspage](https://github.com/jayfk/statuspage) - A statuspage generator that lets you host your statuspage for free on Github.
 
 ## music 
@@ -669,7 +669,7 @@
 ## nextjs 
 
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - AI PDF chatbot agent built with LangChain & LangGraph
 
@@ -959,7 +959,7 @@
 
 ## security 
 
-- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open source AI automation platform for security teams.
+- [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - AI-native automation platform for security teams. Purpose-built for agents. Open source for builders.
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [shieldfy/API-Security-Checklist](https://github.com/shieldfy/API-Security-Checklist) - Checklist of the most important security countermeasures when designing, testing, and releasing your API
