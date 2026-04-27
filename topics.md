@@ -24,6 +24,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [coding](#coding)
@@ -92,6 +93,7 @@
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -271,6 +273,10 @@
 - [EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) - Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥
 - [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone) - ChatGPT interface with better UI
 - [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - The official gpt4free repository | various collection of powerful language models | opus 4.6 gpt 5.3 kimi 2.5 deepseek v3.2 gemini 3
+
+## claude-code 
+
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 
 ## cli 
 
@@ -605,6 +611,7 @@
 
 ## llm 
 
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [run-llama/llama_deploy](https://github.com/run-llama/llama_deploy) - Deploy your agentic worfklows to production
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
 - [TracecatHQ/tracecat](https://github.com/TracecatHQ/tracecat) - Open-source security automation platform for teams and AI agents
@@ -641,6 +648,10 @@
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
+
+## mcp 
+
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 
 ## microservices 
 
@@ -737,6 +748,8 @@
 
 ## others 
 
+- [andremiguelc/ephemaral](https://github.com/andremiguelc/ephemaral) - A Hard Filter for LLM-Generated Code
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Agent Skills for real engineers. Straight from my .claude directory.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [mckaywrigley/clarity-ai](https://github.com/mckaywrigley/clarity-ai) - A Perplexity clone.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
