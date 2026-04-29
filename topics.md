@@ -21,6 +21,7 @@
 - [bioinformatics](#bioinformatics)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [c-sharp](#c-sharp)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
@@ -255,6 +256,13 @@
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
+
+## c-sharp 
+
+- [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
+- [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
+- [Particular/NServiceBus](https://github.com/Particular/NServiceBus) - The gold standard for async .NET microservices on Azure, AWS and on-prem
+- [NancyFx/Nancy](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 
 ## chatbot 
 
@@ -839,7 +847,6 @@
 - [glukki/TabMemFree](https://github.com/glukki/TabMemFree) - TabMemFree Chrome extension
 - [yifanlu/PSXperia](https://github.com/yifanlu/PSXperia) - This tool will take a PSX image that you legally own and convert it to be playable on the Xperia Play with the emulator extracted from the packaged game "Crash Bandicoot."
 - [yifanlu/PSXPeria-Wrapper](https://github.com/yifanlu/PSXPeria-Wrapper) - Loads injected PSX games on Xperia Play
-- [SignalR/SignalR](https://github.com/SignalR/SignalR) - Incredibly simple real-time web for .NET
 - [davybrion/therabbithole](https://github.com/davybrion/therabbithole) - 
 - [pickhardt/Guiders-JS](https://github.com/pickhardt/Guiders-JS) - Guiders.js: A Javascript library for guiders.
 - [themaninblue/DrawPad](https://github.com/themaninblue/DrawPad) - An iPad drawing application & associated 3D visualiser
