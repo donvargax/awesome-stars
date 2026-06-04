@@ -140,6 +140,7 @@
 
 ## JavaScript 
 
+- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [latitudegames/GPT-3-Encoder](https://github.com/latitudegames/GPT-3-Encoder) - Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [0phoff/MDXP](https://github.com/0phoff/MDXP) - Web Slides Made Easy
 - [lassjs/lass](https://github.com/lassjs/lass) - :girl: Lass scaffolds a modern package boilerplate for Node.js
@@ -335,7 +336,6 @@
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [oazapfts/oazapfts](https://github.com/oazapfts/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers
-- [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [rysana-ai/bundown](https://github.com/rysana-ai/bundown) - Bundown is a fast all-in-one Markdown runtime and bundler, built on Bun.
 - [rysana-ai/react-shaders](https://github.com/rysana-ai/react-shaders) - Modern GLSL/WebGL bindings & components for React and Typescript.
 - [rysana-ai/rysana-ai](https://github.com/rysana-ai/rysana-ai) - The Rysana AI TS library.
