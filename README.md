@@ -331,7 +331,7 @@
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The Agent Network
 - [open-sauced/hot](https://github.com/open-sauced/hot) - 🍕The site that recommends the hottest projects on GitHub.
 - [open-sauced/app](https://github.com/open-sauced/app) - 🍕 Insights into your entire open source ecosystem.
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory and context engine + app that is extremely fast, scalable, and can be run fully locally. The Memory API for the AI era.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [FL33TW00D/whisper-turbo](https://github.com/FL33TW00D/whisper-turbo) - Cross-Platform, GPU Accelerated Whisper 🏎️
 - [oazapfts/oazapfts](https://github.com/oazapfts/oazapfts) - Generate TypeScript clients to tap into OpenAPI servers
