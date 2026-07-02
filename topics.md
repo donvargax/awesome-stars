@@ -88,6 +88,7 @@
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
+- [learn-to-code](#learn-to-code)
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
@@ -628,6 +629,11 @@
 ## laravel 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
+
+## learn-to-code 
+
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
 ## learning 
 
