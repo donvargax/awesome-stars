@@ -112,6 +112,7 @@
 
 ## Groovy 
 
+- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [bmustiata/jenny](https://github.com/bmustiata/jenny) - Command line Jenkinsfile runner written in groovy. Does not need a Jenkins installation to run the Jenkinsfile.
 - [JavatarPro/declarative-pipeline](https://github.com/JavatarPro/declarative-pipeline) - jenkinsfile pipeline library
 
@@ -185,7 +186,6 @@
 
 - [ePages-de/restdocs-api-spec](https://github.com/ePages-de/restdocs-api-spec) - Adds API specification support to Spring REST Docs
 - [JakeWharton/jax-rs-kotlinx-serialization](https://github.com/JakeWharton/jax-rs-kotlinx-serialization) - A JAX-RS message body reader/writer and parameter converter which uses Kotlinx Serialization
-- [ben-manes/gradle-versions-plugin](https://github.com/ben-manes/gradle-versions-plugin) - Gradle plugin to discover dependency updates
 - [jasync-sql/jasync-sql](https://github.com/jasync-sql/jasync-sql) - Java & Kotlin Async DataBase Driver for MySQL and PostgreSQL written in Kotlin
 - [oshai/kotlin-logging](https://github.com/oshai/kotlin-logging) - Lightweight Multiplatform logging framework for Kotlin. A convenient and performant logging facade.
 - [perwendel/spark-kotlin](https://github.com/perwendel/spark-kotlin) - A Spark DSL in idiomatic kotlin // dependency: com.sparkjava:spark-kotlin:1.0.0-alpha
