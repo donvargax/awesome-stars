@@ -797,7 +797,7 @@
 
 ## others 
 
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) - 
 - [andremiguelc/ephemaral](https://github.com/andremiguelc/ephemaral) - A Hard Filter for LLM-Generated Code
