@@ -104,6 +104,7 @@
 
 ## Go 
 
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [bootdotdev/bootdev](https://github.com/bootdotdev/bootdev) - CLI used to complete coding challenges and lessons on Boot.dev
 - [geofffranks/spruce](https://github.com/geofffranks/spruce) - A BOSH template merge tool
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
@@ -298,7 +299,6 @@
 ## Rust 
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Monorepo & docs
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
