@@ -824,7 +824,7 @@
 - [stitionai/devika](https://github.com/stitionai/devika) - Devika is the first open-source implementation of an Agentic Software Engineer. Initially started as an open-source alternative to Devin.
 - [bundown/bundown](https://github.com/bundown/bundown) - 
 - [bundown/react-shaders](https://github.com/bundown/react-shaders) - 
-- [bundown/rysana-ai](https://github.com/bundown/rysana-ai) - 
+- [bundown/lusat](https://github.com/bundown/lusat) - 
 - [devxp-tech/backstage](https://github.com/devxp-tech/backstage) - ⚙️ Backstage System
 - [badlogic/doxie](https://github.com/badlogic/doxie) - RAG/LLM info retrieval
 - [tferrari92/automate-all-the-things](https://github.com/tferrari92/automate-all-the-things) - First edition of the Automate All The Things Saga
