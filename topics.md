@@ -147,6 +147,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [skills](#skills)
 - [spring](#spring)
 - [sql](#sql)
 - [sql-server](#sql-server)
@@ -1061,6 +1062,10 @@
 ## shell 
 
 - [isaacs/nave](https://github.com/isaacs/nave) - Virtual Environments for Node
+
+## skills 
+
+- [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## spring 
 
