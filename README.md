@@ -76,6 +76,7 @@
 
 ## C++ 
 
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Monorepo & docs
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
@@ -301,7 +302,6 @@
 ## Rust 
 
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Monorepo & docs
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed language that compiles to Go.
 - [zesterer/forge](https://github.com/zesterer/forge) - A lightweight, elegant scripting language with built-in Rust-FFI.
 - [seed-rs/seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps
