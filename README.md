@@ -17,6 +17,7 @@
 - [Groovy](#groovy)
 - [HCL](#hcl)
 - [HTML](#html)
+- [Jai](#jai)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
@@ -76,7 +77,6 @@
 
 ## C++ 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Monorepo & docs
 - [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) - Distribute and run LLMs with a single file.
 - [facebookresearch/faiss](https://github.com/facebookresearch/faiss) - A library for efficient similarity search and clustering of dense vectors.
 - [xenia-project/xenia](https://github.com/xenia-project/xenia) - Xbox 360 Emulator Research Project
@@ -129,6 +129,10 @@
 - [alistapart/AListApart](https://github.com/alistapart/AListApart) - The A List Apart front end repo
 - [ubuwaits/beautiful-web-type](https://github.com/ubuwaits/beautiful-web-type) - In-depth guide to the best open-source typefaces: https://www.beautifulwebtype.com
 - [ryanseddon/font-dragr](https://github.com/ryanseddon/font-dragr) - Drag and drop font testing
+
+## Jai 
+
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Enter the Verse
 
 ## Java 
 
