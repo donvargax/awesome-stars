@@ -88,6 +88,7 @@
 - [jenkins](#jenkins)
 - [js](#js)
 - [json](#json)
+- [knowledge-graph](#knowledge-graph)
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
@@ -103,6 +104,7 @@
 - [macos](#macos)
 - [markdown](#markdown)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -630,6 +632,10 @@
 - [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the Fetch API
 - [ServiceStack/ServiceStack](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
 
+## knowledge-graph 
+
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
+
 ## kotlin 
 
 - [JonasTebben/awesome-micronaut](https://github.com/JonasTebben/awesome-micronaut) - A curated list of resources for the Micronaut JVM framework
@@ -713,6 +719,13 @@
 - [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 - [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 - [OtterMind/Chat2DB](https://github.com/OtterMind/Chat2DB) - Chat2DB is a free, cross-platform, local-first database client and SQL workspace for developers, DBAs, analysts, and data teams. Connect to 40+ databases, manage data, edit and run SQL, and use your o
+
+## mcp-server 
+
+- [KikeVen/zerikai_memory](https://github.com/KikeVen/zerikai_memory) - A standalone local-only Python MCP server that gives any IDE persistent, workspace-isolated memory. works with any IDE supporting MCP servers
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
+- [yikart/AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
+- [FreePeak/LeanKG](https://github.com/FreePeak/LeanKG) - LeanKG: Stop Burning Tokens. Start Coding Lean.
 
 ## microservices 
 
