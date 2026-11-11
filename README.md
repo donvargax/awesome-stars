@@ -131,7 +131,7 @@
 
 ## Jai 
 
-- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - The Agent Network
+- [OpenAgentsInc/openagents](https://github.com/OpenAgentsInc/openagents) - Enter The Verse
 
 ## Java 
 
